@@ -31,8 +31,5 @@ Data
 
 467 complaint records spanning 2011–2020, with fields covering product, sub-product, issue, request channel, state, company response, timeliness, dispute status and resolution status.
 
-Running it
-
-No setup required — download index.html and open it in any modern browser, or visit the live demo above.
 
 Personal portfolio project built from a Commonwealth Bank–styled BI brief using synthetic sample data. Not affiliated with or endorsed by Commonwealth Bank; the logo is used illustratively.
